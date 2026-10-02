@@ -1,0 +1,9 @@
+echo "# PC-virtual" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/dn4231331-web/PC-virtual.git
+ git push -u origin maingit remote add origin https://github.com/dn4231331-web/PC-virtual.git
+ git branch -M main 
+git push -u origin main
